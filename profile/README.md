@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://groupbuyexpert.com/sites/default/files/blog/AdEspresso/adespresso-1.png" alt="AdEspresso PC" width="100%" />
+</p>
+
 # 🚀💼 AdEspresso PC — Full Power Ads Manager for Facebook & Google 🔥
 
 Tired of slow dashboards and constant logins? Unlock the **full control** of your ad campaigns with the **PC version of AdEspresso** — no browser tabs, no distractions, just results. Build, test, optimize, and scale your ads directly from desktop with maximum efficiency and clarity.
